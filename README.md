@@ -1,4 +1,3 @@
-# bank-cad
 
 # How to run
 
